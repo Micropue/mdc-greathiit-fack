@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         哈信息教务网突破
 // @namespace    https://docs.scriptcat.org/
-// @version      0.1.0
+// @version      0.2.0
 // @description  你的作业也忘记提交了吗？快试试这个脚本叭！
 // @author       Micropue
 // @match        https://mdc.greathiit.com/*
@@ -142,7 +142,7 @@ function loadDialog(featuresHandle) {
                 pointer-events: none;
             }
         </style>
-        <h2 style="font-weight: 900;">哈信息教务网突破</h2>
+        <h2 style="font-weight: 900;">哈信息教务网小工具</h2>
         <div style="width: 100%; display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
             <p class="tip">修改截止时间</p>
             <div style="display: flex; align-items: center; justify-content: center;">
