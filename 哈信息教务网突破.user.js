@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         哈信息教务网突破
-// @namespace    https://docs.scriptcat.org/
-// @version      1.0.0
-// @description  你的作业也忘记提交了吗？快试试这个脚本叭！
-// @author       Micropue
-// @match        https://mdc.greathiit.com/*
-// @icon         https://img9.greathiit.com/nopage/icon.png
-// @grant        none
-// @run-at       early-start
+// @name        哈信息教务网突破
+// @namespace   https://docs.scriptcat.org/
+// @version     1.0.0
+// @description 你的作业也忘记提交了吗？快试试这个脚本叭！
+// @author      Micropue
+// @match       https://mdc.greathiit.com/*
+// @icon        https://img9.greathiit.com/nopage/icon.png
+// @grant       none
+// @run-at      document-start
 // @noframes
-// @license MIT
+// @license     MIT
 // ==/UserScript==
 
 
