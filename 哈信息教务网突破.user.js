@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         哈信息教务网突破
 // @namespace    https://docs.scriptcat.org/
-// @version      0.2.0
+// @version      1.0.0
 // @description  你的作业也忘记提交了吗？快试试这个脚本叭！
 // @author       Micropue
 // @match        https://mdc.greathiit.com/*
 // @icon         https://img9.greathiit.com/nopage/icon.png
 // @grant        none
+// @run-at       early-start
 // @noframes
+// @license MIT
 // ==/UserScript==
 
 
